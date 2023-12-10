@@ -9,6 +9,7 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
       - Tạo ra một list kiểu MyLinkedList có các phần tử dữ liệu kiểu Double.
         - Sử dụng BasicStatistic để tính các đại lượng thống kê cơ bản (max, min, kỳ vọng, phương sai).
         - In ra terminal các thông tin về dữ liệu và các đại lượng thống kê.
+          
       ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/262597c7-71da-4a5e-a53d-03a09a6f8d3f)
 
 
@@ -17,6 +18,7 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
         - Sử dụng BasicStatistic để tính các đại lượng thống kê cơ bản (max, min, kỳ vọng, phương sai, rank, trung vị).
       - Tạo ra một set kiểu ListDataSet có các phần tử dữ liệu kiểu Double.
         - Sử dụng BasicStatistic để tính các đại lượng thống kê cơ bản (max, min, kỳ vọng, phương sai, rank, trung vị).
+          
       ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/9e5c1574-8488-4932-ac68-2047e305b211)
 
 
@@ -36,7 +38,8 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
       - Tạo một đa thức.
          - Viết demo chương trình tính tích phân xác định của đa thức theo các phương pháp đã cho (MidpointRule, TrapezoidRule, SimpsonRule) sử dụng IntegrationCalculator. Các phương pháp tính tích phân có thể thay đổi ở thời gian chạy chương trình.
          - In ra thông tin phương pháp sử dụng, đa thức, và giá trị tích phân của đa thức.
-      - Các phương pháp tính tích phân tham khảo tại [đây](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/sec_Numerical_Integration.html)\
+      - Các phương pháp tính tích phân tham khảo tại [đây](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/sec_Numerical_Integration.html)
+        
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/dbeb95ef-3fe3-43ac-989c-8d636ccb08b1)
 
 
@@ -50,13 +53,15 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
          - In ra ma trận là ma trận tích của 2 ma trận.
          - Tìm và in ra một ma trận dạng hình thang theo hàng (row echelon form) dùng phép khử Gauss của 2 ma trận.
          - Tìm và in ra ma trận dạng hình thang theo hàng rút gọn (reduced row echelon form) dùng phép khử Gauss-Jordan.
-      - Thuật toán khử Gauss tham khảo tại [đây](https://www.baeldung.com/cs/solving-system-linear-equations) \
+      - Thuật toán khử Gauss tham khảo tại [đây](https://www.baeldung.com/cs/solving-system-linear-equations)
+        
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/be7a78b7-4a13-48a3-b0f2-e462c90e1474)
 
 
    - **BookManager:**
       -  Hoàn thiện các hàm được cho trong các file source code mẫu được cung cấp.
-      -  Thực hiện tất cả các phương thức trong lớp client App.java. \
+      -  Thực hiện tất cả các phương thức trong lớp client App.java.
+        
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/1f4ec8c8-37f2-490d-887f-c37502155f6c)
 
 
@@ -64,5 +69,6 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
       - Xây dựng các List kiểu ArrayList và LinkedList để lưu trữ dữ liệu.
       - Hoàn thiện các hàm được cho trong các file source code mẫu được cung cấp.
       - Thực hiện tất cả các phương thức trong lớp client App.java.
+        
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/42d6e552-20f2-40c1-bed2-91b37dd1e910)
 
