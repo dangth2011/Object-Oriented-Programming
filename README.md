@@ -36,7 +36,7 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
       - Tạo một đa thức.
          - Viết demo chương trình tính tích phân xác định của đa thức theo các phương pháp đã cho (MidpointRule, TrapezoidRule, SimpsonRule) sử dụng IntegrationCalculator. Các phương pháp tính tích phân có thể thay đổi ở thời gian chạy chương trình.
          - In ra thông tin phương pháp sử dụng, đa thức, và giá trị tích phân của đa thức.
-      - Các phương pháp tính tích phân tham khảo tại [https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/sec_Numerical_Integration.html](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/sec_Numerical_Integration.html)\
+      - Các phương pháp tính tích phân tham khảo tại [đây](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/sec_Numerical_Integration.html)\
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/dbeb95ef-3fe3-43ac-989c-8d636ccb08b1)
 
 
@@ -50,7 +50,7 @@ Object-Oriented Programming exams in VNU University of Science (2022 - 2023)
          - In ra ma trận là ma trận tích của 2 ma trận.
          - Tìm và in ra một ma trận dạng hình thang theo hàng (row echelon form) dùng phép khử Gauss của 2 ma trận.
          - Tìm và in ra ma trận dạng hình thang theo hàng rút gọn (reduced row echelon form) dùng phép khử Gauss-Jordan.
-      - Thuật toán khử Gauss tham khảo tại [https://www.baeldung.com/cs/solving-system-linear-equations](https://www.baeldung.com/cs/solving-system-linear-equations) \
+      - Thuật toán khử Gauss tham khảo tại [đây](https://www.baeldung.com/cs/solving-system-linear-equations) \
         ![image](https://github.com/dangth2011/Object-Oriented-Programming/assets/152959080/be7a78b7-4a13-48a3-b0f2-e462c90e1474)
 
 
