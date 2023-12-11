@@ -22,11 +22,11 @@ public class TestMyList {
          */
         System.out.println("Using ArrayList:");
         MyList arrayList = new MyArrayList();
-        arrayList.append((double) 3);
-        arrayList.append((double) 4);
-        arrayList.append((double) 5);
-        arrayList.append((double) 6);
-        arrayList.append((double) 7);
+        arrayList.append(3.0);
+        arrayList.append(4.0);
+        arrayList.append(5.0);
+        arrayList.append(6.0);
+        arrayList.append(7.0);
         BasicStatistic basicStatistic = new BasicStatistic(arrayList);
 
         System.out.println(arrayList);
@@ -46,11 +46,11 @@ public class TestMyList {
          */
         System.out.println("Using LinkedList:");
         MyList linkedList = new MyLinkedList();
-        linkedList.append((double) 3);
-        linkedList.append((double) 4);
-        linkedList.append((double) 5);
-        linkedList.append((double) 6);
-        linkedList.append((double) 7);
+        linkedList.append(3.0);
+        linkedList.append(4.0);
+        linkedList.append(5.0);
+        linkedList.append(6.0);
+        linkedList.append(7.0);
         BasicStatistic basicStatistic = new BasicStatistic(linkedList);
 
         System.out.println(linkedList);
