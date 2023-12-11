@@ -65,8 +65,9 @@ public class BasicStatistic {
     public double variance() {
         /* TODO */
         double sum = 0;
+        double mean = mean();
         for (int i = 0; i < this.data.size(); i++) {
-            sum += ((double) this.data.get(i) - mean()) * ((double) this.data.get(i) - mean());
+            sum += ((double) this.data.get(i) - mean) * ((double) this.data.get(i) - mean);
         }
         return Math.sqrt(sum / this.data.size());
     }
