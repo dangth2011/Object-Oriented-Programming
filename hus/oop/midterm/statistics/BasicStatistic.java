@@ -59,8 +59,9 @@ public class BasicStatistic implements Statistic {
     public double variance() {
         /* TODO */
         double sum = 0;
+        double mean = mean();
         for (int i = 0; i < this.dataSet.size(); i++) {
-            sum += (this.dataSet.element(i) - mean()) * (this.dataSet.element(i) - mean());
+            sum += (this.dataSet.element(i) - mean) * (this.dataSet.element(i) - mean);
         }
         return Math.sqrt(sum / this.dataSet.size());
     }
